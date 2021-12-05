@@ -13,5 +13,5 @@ hdfilmeonline.ro##[href^="https://www.amazon.co.uk/dp"],.bireklam,div.sidebarbor
 ||rangfort.ro/resurse/rfhz.png
 ||i.imgur.com/pfwGpqN.png$image
 gamelife.ro##li.ipsBox.ipsWidget_vertical.ipsWidget > .ipsWidget_title.ipsType_reset:has-text(/Partener/i)
-cspower.ro##li.ipsClearfix.ipsDataItem_responsivePhoto.ipsDataItem.cForumRow > .ipsDataItem_main:has-text(/RedSky/i)
+cspower.ro##li.ipsClearfix.ipsDataItem_responsivePhoto.ipsDataItem.cForumRow:nth-of-type(5),.parteneriate,li.ipsClearfix.ipsDataItem_responsivePhoto.ipsDataItem.cForumRow > .ipsDataItem_main:has-text(/RedSky/i)
 ||i.imgur.com/HWRfMej.jpg$image
