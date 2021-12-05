@@ -1,4 +1,4 @@
-! Title: Filter list for improving the browsing on Romanian web pages when used with uBlock Origin
+! Title: uBO filters for Romanian webpages
 
 cancan.ro##.strawberry-ads-manager-container,.height-sm-360
 romaniatv.net##.strawberry-ads__inline,.height-sm-250
