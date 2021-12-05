@@ -7,3 +7,4 @@ cancan.ro##.height-250
 ||hoinaru.ro/wp-content/uploads/2019/10/banner_300x200_3.jpg
 hoinaru.ro###custom_html-2,#custom_html-4
 asculta-live.com##.ad
+hdfilmeonline.ro##[href^="https://www.amazon.co.uk/dp"],.bireklam,div.sidebarborder:nth-of-type(3),div.sidebarborder:nth-of-type(4)
