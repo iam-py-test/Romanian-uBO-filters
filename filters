@@ -1,7 +1,8 @@
 ! Title: uBO filters for Romanian webpages
 
 cancan.ro##.strawberry-ads-manager-container,.height-sm-360
-romaniatv.net##.strawberry-ads__inline,.height-sm-250
+romaniatv.net##.strawberry-ads__inline
+romaniatv.net,playtech.ro##.height-sm-250
 cancan.ro##.height-250
 ||hoinaru.ro/wp-content/uploads/2021/07/banner-hoinaru2.jpg
 ||hoinaru.ro/wp-content/uploads/2019/10/banner_300x200_3.jpg
@@ -19,3 +20,5 @@ cspower.ro##li.ipsClearfix.ipsDataItem_responsivePhoto.ipsDataItem.cForumRow:nth
 ||media.stiripesurse.ro/image/202109/full/media-163169214016973600.jpg
 ||media.stiripesurse.ro/image/202105/full/media-162047680155987100.gif
 ||media.stiripesurse.ro/assets/img/ads_img/$subdocument
+playtech.ro##.height-300
+playtech.ro##p:nth-of-type(31)
