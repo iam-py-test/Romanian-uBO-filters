@@ -8,3 +8,4 @@ cancan.ro##.height-250
 hoinaru.ro###custom_html-2,#custom_html-4
 asculta-live.com##.ad
 hdfilmeonline.ro##[href^="https://www.amazon.co.uk/dp"],.bireklam,div.sidebarborder:nth-of-type(3),div.sidebarborder:nth-of-type(4)
+9am.ro##.minh-250,.minh-96
