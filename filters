@@ -42,8 +42,9 @@ cspower.ro##li.ipsClearfix.ipsDataItem_responsivePhoto.ipsDataItem.cForumRow > .
 ||media.stiripesurse.ro/image/202105/full/media-162047680155987100.gif
 ||media.stiripesurse.ro/assets/img/ads_img/$subdocument
 
-playtech.ro##.height-300
 playtech.ro##p:nth-of-type(31)
+playtech.ro##.height-md-25
+playtech.ro##.height-300
 
 zonait.ro##[href="//www.techinstyle.ro/oferte/zona/"]
 zonait.ro###custom_html-6
