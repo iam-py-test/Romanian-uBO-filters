@@ -1,4 +1,5 @@
 ! Title: uBO filters for Romanian webpages
+! Homepage: https://github.com/LikesHisComputer/Romanian-uBO-filters
 
 cancan.ro##.strawberry-ads-manager-container
 cancan.ro##.height-sm-360
