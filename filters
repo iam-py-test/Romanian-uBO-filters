@@ -28,3 +28,18 @@ zonait.ro###custom_html-6
 yoda.ro##.top-branding,.branding,.above-menu
 ||imgur.com/EbidNGv.png
 ||smite.ro/forum/uploads/*neoserver*.png$image
+
+! fanatik
+fanatik.ro##.height-250
+fanatik.ro##.strawberry-ads-manager-container
+fanatik.ro##[href^="https://lp.superbet.ro"]
+||fanatik.ro/wp-content/uploads/2021/09/superbet*.webp
+||fanatik.ro/wp-content/uploads/2021/*samburesti*.webp
+||fanatik.ro/wp-content/uploads/2021/11/sambureti-top-min.webp
+||fanatik.ro/wp-content*betano*.webp
+||fanatik.ro*betano*.svg
+fanatik.ro##[href^="https://ro.betano.com"]
+fanatik.ro###strawberry_feeds_manager_widget-3
+fanatik.ro##[href^="https://betmag.ro"]
+fanatik.ro###strawberry_sticky_posts_widget-24
+fanatik.ro##.hidden-xs
