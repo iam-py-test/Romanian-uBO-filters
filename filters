@@ -1,5 +1,8 @@
+[Adblock Plus 2.0]
 ! Title: uBO filters for Romanian websites / webpages
 ! Homepage: https://github.com/LikesHisComputer/Romanian-uBO-filters
+! Expires: 1 day
+! Description: A uBlock Origin filterlist for removing ads from Romanian websites
 
 cancan.ro##.strawberry-ads-manager-container
 cancan.ro##.height-sm-360
@@ -73,4 +76,6 @@ fanatik.ro##[href^="https://betmag.ro"]
 fanatik.ro###strawberry_sticky_posts_widget-24
 fanatik.ro##.hidden-xs
 
+! SpyNews
 spynews.ro##.ads
+||adtlgc.com^
