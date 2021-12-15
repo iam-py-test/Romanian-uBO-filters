@@ -1,3 +1,7 @@
+This is an old fork of the an no-longer living repo. This fork was originally created as to submit changes, and is a bit out of date. But it's the last version that I know of...
+
+
+
 # Romanian-uBO-filters
 
 If the use of any part of this repository results in any damages, LikesHisComputer is not liable for them in any way, shape or form.
